@@ -19,13 +19,12 @@ setuptools.setup(
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
-        "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
     install_requires=[],
-    python_requires='>=3.9',
+    python_requires='>=3.10',
 )
 
 # python3 setup.py sdist bdist_wheel

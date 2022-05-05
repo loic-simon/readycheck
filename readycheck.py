@@ -7,7 +7,7 @@ __title__ = "readycheck"
 __author__ = "Loïc Simon"
 __license__ = "MIT"
 __copyright__ = "Copyright 2022 Loïc Simon"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __all__ = ["ReadyCheck", "NotReadyError"]
 
 
