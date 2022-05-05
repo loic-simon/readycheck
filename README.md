@@ -3,7 +3,7 @@
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/readycheck)](https://pypi.org/project/readycheck)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/readycheck)](https://pypi.org/project/readycheck)
 [![Read the Docs](https://img.shields.io/readthedocs/readycheck)](https://readycheck.readthedocs.io)
-[![Travis CI](https://img.shields.io/travis/loic-simon/readycheck)](https://travis-ci.org/github/loic-simon/readycheck)
+[![CircleCI](https://img.shields.io/circleci/build/github/loic-simon/readycheck)](https://app.circleci.com/pipelines/github/loic-simon/readycheck)
 
 Python package providing utilities to check classes attributes when accessing it.
 
